@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PapeleriaControlU2.vcxproj" Id="fda3b080-ca11-4daf-97a5-140f183d5448" />
+</Solution>
